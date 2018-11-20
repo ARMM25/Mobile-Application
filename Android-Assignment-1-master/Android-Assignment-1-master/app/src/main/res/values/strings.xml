@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">Conference</string>
+    <string name="detail_page_title">Conference Details</string>
+    <string name="share">Share with</string>
+    <string name="twitter">Twitter</string>
+    <string name="speakers">Speakers</string>
+    <string name="sponsors">Sponsors</string>
+    <string name="attendees">Attendees</string>
+    <string name="login">Sign in</string>
+    <string name="register">Register</string>
+    <string name="emailInput">Email</string>
+    <string name="passwordInput">Password</string>
+    <string name="logoContent">Application Logo</string>
+    <string name="more">Click here to load 47 more</string>
+
+
+    <!--Conference 1-->
+    <string name="conferenceTitle1">REST API</string>
+    <string name="conferenceDescription1">APIs are eating the digital world: From public APIs which allow companies to turbo scale their cloud and SaaS business model...</string>
+    <string name="conferenceSpeaker1">Speakers: Tom Wise, Daniel Kim, and 6 more...</string>
+    <string name="conferenceAttendees1">200/250</string>
+    <string name="conferenceSponsor1">Sponsors: IBM, Google, and 5 more...</string>
+    <!--Conference 2-->
+    <string name="conferenceTitle2">Docker, Kubernetes and Microservices</string>
+    <string name="conferenceDescription2">DevOps has become one of the most important roles in organization. This Conference will cover the basic concept of one of the hottest Linux Container Docker and DevOps orchestration tool Kubernetes</string>
+    <string name="conferenceSpeaker2">Speakers: Jack Daniel, Emily Jin, and 3 more...</string>
+    <string name="conferenceAttendees2">50/75</string>
+    <string name="conferenceSponsor2">Sponsors: Docker Inc., and 2 more...</string>
+    <!--Conference 3-->
+    <string name="conferenceTitle3">CI/CD Conference</string>
+    <string name="conferenceDescription3">CI(Continuous Integration) and CD(Continuous Delivery) are two important concepts for organizations success. This conference will cover one of the hottest CI/CD tool (Jenkins)</string>
+    <string name="conferenceSpeaker3">Speakers: Tracy Miranda, Oleg Nenashev, and 2 more...</string>
+    <string name="conferenceAttendees3">100/120</string>
+    <string name="conferenceSponsor3">Sponsors: Oracle Inc.</string>
+    <!--Conference 4-->
+    <string name="conferenceTitle4">Microsoft Azure Conference</string>
+    <string name="conferenceDescription4">Showcasing the versatility of Microsoft Azure via a range of demonstrations, discussions and practical, applicable workshops, join us to discover how Azure can be implemented immediately and work seamlessly with your existing tools and infrastructure.</string>
+    <string name="conferenceSpeaker4">Speakers: Chris Milton, Camelia Scott, and 5 more...</string>
+    <string name="conferenceAttendees4">120/140</string>
+    <string name="conferenceSponsor4">Sponsors: Microsoft Inc.</string>
+    <!--Speaker 1-->
+    <string name="name1">Jack Daniel</string>
+    <string name="email1">jack.d@twentyfourseven.com</string>
+    <string name="title1">Senior DevOps</string>
+    <string name="company1">24[7]</string>
+    <!--Speaker 2-->
+    <string name="name2">Emily Jin</string>
+    <string name="email2">emily.j@docker.com</string>
+    <string name="title2">Cloud Specialist</string>
+    <string name="company2">Docker Inc.</string>
+    <!--Speaker 3-->
+    <string name="name3">Scott Jay</string>
+    <string name="email3">scott.j@google.com</string>
+    <string name="title3">Google Cloud Specialist</string>
+    <string name="company3">Google Inc.</string>
+    <!--Speaker 4-->
+    <string name="name4">Karen Page</string>
+    <string name="email4">karen.p@amazon.com</string>
+    <string name="title4">AWS Expert</string>
+    <string name="company4">Amazon Web Services</string>
+    <!--Speaker 5-->
+    <string name="name5">Andrea Martinez</string>
+    <string name="email5">andrea.m@ibm.ca</string>
+    <string name="title5">Senior Java Developer</string>
+    <string name="company5">IBM Inc.</string>
+    <!--Sponsor 1-->
+    <string name="sponsor1">Docker Inc.</string>
+    <string name="description1">Docker Inc. is the company behind development of Docker(software), an open-source project that automates the deployment of code inside the software containers.</string>
+    <string name="location1">Location: San Francisco, California</string>
+    <!--Sponsor 2-->
+    <string name="sponsor2">Red Hat Inc.</string>
+    <string name="description2">Red Hat, Inc. is an American multinational software company providing open-source software products to the enterprise community. </string>
+    <string name="location2">Location: Raleigh, North Carolina</string>
+    <!--Sponsor 3-->
+    <string name="sponsor3">Google LLC</string>
+    <string name="description3">Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardware.</string>
+    <string name="location3">Location: Mountain View, California</string>
+    <!--Attendee 1-->
+    <string name="attendeeName1">Ray Allen</string>
+    <string name="attendeeOccupation1">Occupation: Computer Science Student</string>
+    <string name="workplace1">Study at: University of Toronto</string>
+    <!--Attendee 2-->
+    <string name="attendeeName2">Bob Stone</string>
+    <string name="attendeeOccupation2">Occupation: Junior Software Developer</string>
+    <string name="workplace2">Work at: Walmart Lab</string>
+    <!--Attendee 3-->
+    <string name="attendeeName3">Sam Smith</string>
+    <string name="attendeeOccupation3">Occupation: DevOps Engineer</string>
+    <string name="workplace3">Work at: Facebook Inc.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
