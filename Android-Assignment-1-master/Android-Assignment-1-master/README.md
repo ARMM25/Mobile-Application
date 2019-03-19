@@ -1,2 +1,2 @@
-# Android-Assignment-1
-My Assignment 1 in Android Development Course
+# Android
+Conference Application built on Android language
